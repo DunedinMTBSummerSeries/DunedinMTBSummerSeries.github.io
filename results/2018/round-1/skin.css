@@ -1,8 +1,7 @@
 #logo {
-    width: 250px;
-    height: 100px;
-    background: url("../../mbo-lone-star-logos-screen.png") left top no-repeat;
-    background-size: 100%;
+    width: 650px;
+    height: 220px;
+    background: url("../../2018-results-banner.png") left top no-repeat;
     overflow: hidden;
     display: block;
 }
