@@ -1,3 +1,0 @@
-					<a href="https://www.facebook.com/groups/DunedinMTBSummerSeries/" title="Dunedin MTB Summer Series" id="logo">
-						<span>Dunedin MTB Summer Series</span>
-					</a>
