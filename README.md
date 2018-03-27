@@ -5,4 +5,4 @@
 * [Round 2 - Whare Flat](https://dunedinmtbsummerseries.github.io/results/2018/round-2/)
 * [Round 3 - Signal Hill](https://dunedinmtbsummerseries.github.io/results/2018/round-3/)
 * [Round 4 - Bethunes](https://dunedinmtbsummerseries.github.io/results/2018/round-4/)
-* [Round 5 - Wakari](https://dunedinmtbsummerseries.github.io/results/2018/round-5/)
+* [Round 5 - Wakari Creek / Redwoods](https://dunedinmtbsummerseries.github.io/results/2018/round-5/)
