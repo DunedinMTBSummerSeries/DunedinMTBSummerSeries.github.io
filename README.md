@@ -3,6 +3,7 @@
 ## 2019
 * [Round 1 - Wakari Creek / Redwoods](https://dunedinmtbsummerseries.github.io/results/2019/round-1/)
 * [Round 2 - Bethunes](https://dunedinmtbsummerseries.github.io/results/2019/round-2/)
+* [Round 3 - Signal Hill](https://dunedinmtbsummerseries.github.io/results/2019/round-3/)
 
 ## 2018
 * [Round 1 - Wakari Creek / Redwoods](https://dunedinmtbsummerseries.github.io/results/2018/round-1/)
