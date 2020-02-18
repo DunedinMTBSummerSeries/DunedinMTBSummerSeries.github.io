@@ -1,5 +1,5 @@
-# Results for [Dunedin MTB Summer Series](https://www.facebook.com/groups/DunedinMTBSummerSeries/)
-![Dunedin MTB Summer Series](https://dunedinmtbsummerseries.github.io/results/2019-results-banner.png "Dunedin MTB Summer Series")
+# Results for [EVO Cycles Summer Series](https://www.facebook.com/groups/DunedinMTBSummerSeries/)
+![EVO Cycles Summer Series](https://dunedinmtbsummerseries.github.io/results/2020-results-banner.png "EVO Cycles Summer Series")
 ## 2020
 * [Round 1 - Wakari Creek / Redwoods](https://dunedinmtbsummerseries.github.io/results/2020/round-1/)
 ## 2019
