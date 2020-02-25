@@ -1,0 +1,7 @@
+#logo {
+    width: 649px;
+    height: 160px;
+    background: url("../../2020-results-banner.png") left top no-repeat;
+    overflow: hidden;
+    display: block;
+}
