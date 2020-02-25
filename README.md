@@ -2,6 +2,7 @@
 ![EVO Cycles Summer Series](https://dunedinmtbsummerseries.github.io/results/2020-results-banner.png "EVO Cycles Summer Series")
 ## 2020
 * [Round 1 - Wakari Creek / Redwoods](https://dunedinmtbsummerseries.github.io/results/2020/round-1/)
+
 ## 2019
 * [Round 1 - Wakari Creek / Redwoods](https://dunedinmtbsummerseries.github.io/results/2019/round-1/)
 * [Round 2 - Bethunes](https://dunedinmtbsummerseries.github.io/results/2019/round-2/)
